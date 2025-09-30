@@ -11,7 +11,7 @@ function App() {
       <header className="border-b border-border/50 bg-card/50 backdrop-blur-sm sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <span className="font-semibold text-lg"><img className="w-50" src="./public/logo.png" alt="" /></span>
+            <span className="font-semibold text-lg"><img className="w-50" src="/logo.png" alt="" /></span>
           </div>
           <Badge variant="secondary" className="bg-accent/20 text-accent-foreground border-accent/30">
             Limited Time Offer
@@ -244,7 +244,7 @@ Capitalize on the global demand for health, wellness, and longevity - and start 
         <div className="container mx-auto px-4 text-center">
           <div className="space-y-4">
             <div className="flex items-center justify-center space-x-2">
-              <span className="font-bold"><img className="w-50" src="./public/logo.png" alt="" /></span>
+              <span className="font-bold"><img className="w-50" src="/logo.png" alt="" /></span>
             </div>
           </div>
         </div>
